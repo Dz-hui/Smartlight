@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "oled_i2c.h": "c",
+        "hc_sr04.h": "c",
+        "adc.h": "c",
+        "pwm.h": "c",
+        "app.h": "c"
+    }
+}

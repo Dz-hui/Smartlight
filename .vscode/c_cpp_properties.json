@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:\\STM32  EX\\F1_DEMO\\driver",
+                "F:\\STM32  EX\\F1_DEMO\\driver\\OLED_IIC",
+                "F:\\STM32  EX\\F1_DEMO\\Libraries\\CMSIS\\CM3\\CoreSupport",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include",
+                "F:\\STM32  EX\\F1_DEMO\\Libraries\\CMSIS\\CM3\\DeviceSupport\\ST\\STM32F10x",
+                "F:\\STM32  EX\\F1_DEMO\\Libraries\\STM32F10x_StdPeriph_Driver\\inc"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                "STM32F10X_MD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "compilerPath": "D:\\Program Files\\LLVM\\bin\\clang.exe",
+            "cppStandard": "c++98",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}
